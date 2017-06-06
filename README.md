@@ -1,4 +1,4 @@
-# _DrsOfficeAPI _
+# Dr Lookup API
 
 #### _Friday Project, 05/26/17_
 
@@ -25,7 +25,7 @@ The repository for this project can be accessed at https://github.com/crispyb0i/
 
 ## Support and contact details
 
-_Please contact David Shin at xdavidshinx@gmail.com
+Please contact David Shin at xdavidshinx@gmail.com
 
 ## Technologies Used
 
